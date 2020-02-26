@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/psychic-telegram/static/css/main.ef521792.chunk.css",
+    "main.js": "/psychic-telegram/static/js/main.85b7f7a2.chunk.js",
+    "main.js.map": "/psychic-telegram/static/js/main.85b7f7a2.chunk.js.map",
+    "runtime-main.js": "/psychic-telegram/static/js/runtime-main.1157fd18.js",
+    "runtime-main.js.map": "/psychic-telegram/static/js/runtime-main.1157fd18.js.map",
+    "static/js/2.2eeb62ad.chunk.js": "/psychic-telegram/static/js/2.2eeb62ad.chunk.js",
+    "static/js/2.2eeb62ad.chunk.js.map": "/psychic-telegram/static/js/2.2eeb62ad.chunk.js.map",
+    "index.html": "/psychic-telegram/index.html",
+    "precache-manifest.e6f18f3dc957b94a71937b696bb99f69.js": "/psychic-telegram/precache-manifest.e6f18f3dc957b94a71937b696bb99f69.js",
+    "service-worker.js": "/psychic-telegram/service-worker.js",
+    "static/css/main.ef521792.chunk.css.map": "/psychic-telegram/static/css/main.ef521792.chunk.css.map",
+    "static/js/2.2eeb62ad.chunk.js.LICENSE.txt": "/psychic-telegram/static/js/2.2eeb62ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1157fd18.js",
+    "static/js/2.2eeb62ad.chunk.js",
+    "static/css/main.ef521792.chunk.css",
+    "static/js/main.85b7f7a2.chunk.js"
+  ]
+}
